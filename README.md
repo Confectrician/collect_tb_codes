@@ -10,14 +10,14 @@ Collect those Codes automatically!
 ###How does it work?
 You simply have to visit all of your ever logged TB-Detail-Pages.
 
-Visit [Your Trackables Page](http://www.geocaching.com/my/travelbugs.aspx)
+Visit [Your Trackables Page](http://www.geocaching.com/my/travelbugs.aspx "Redirects to Geocaching.com")
 
 There you can find a grey box on top right corner.
 
 It says:
 >"List trackable items you own or have found."
 
-Click on "have found" and visit every Item Page in the generated List.
+Click on "_have found_" and visit every Item Page in the generated List.
 
 This can be much Work if you have aleady a big amount of logged Trackables.
 
