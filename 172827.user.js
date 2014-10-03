@@ -8,7 +8,9 @@
 // @grant           GM_setValue
 // @grant           GM_registerMenuCommand
 // @grant           unsafeWindow
-// @version         2.01
+// @downloadURL     https://greasyfork.org/scripts/5442-collecttb-codes
+// @updateURL       https://greasyfork.org/scripts/5442-collecttb-codes
+// @version         2.02
 // ==/UserScript==
 
 
