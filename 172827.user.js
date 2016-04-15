@@ -68,7 +68,7 @@ try
 	}
 	//console.log("stored length = " + stored.length);
 	GM_setValue("tbcodeshashed",stored);
-	var Element=document.getElementById('ctl00_divContentSide');
+	var Element=document.getElementById('divContentSide');
 	Element.innerHTML=Element.innerHTML + "<div style='width: 250px;'>" + tbcodes.length + ' TB-Codes Stored<br />(Refresh could be necessary)<br /><textarea id=\"gm_tb_ta\" cols=\'40\' rows=\'30\'>' + output.replace(/\|/gi,";") + '</textarea></div>';
     //.replace(/\|/gi,";")
 }
