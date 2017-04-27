@@ -10,7 +10,7 @@
 // @grant           unsafeWindow
 // @downloadURL     https://greasyfork.org/scripts/5442-collecttb-codes
 // @updateURL       https://greasyfork.org/scripts/5442-collecttb-codes
-// @version         2.02
+// @version         2.03
 // ==/UserScript==
 
 
