@@ -3,7 +3,7 @@
 // @namespace       https://github.com/Confectrician/collect_tb_codes
 // @author          Confectrician
 // @description     Collect TB-Codes from TB Listing
-// @include         http://www.geocaching.com/track/details.aspx*
+// @include         https://www.geocaching.com/track/details.aspx*
 // @grant           GM_getValue
 // @grant           GM_setValue
 // @grant           GM_registerMenuCommand
@@ -15,8 +15,8 @@
 
 
 var stored;
-var tbcodes = new Array();
-var codehash = new Array();
+var tbcodes = [];
+var codehash = [];
 
 
 function clearCollection() {
